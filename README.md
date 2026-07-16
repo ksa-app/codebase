@@ -29,7 +29,7 @@ git clone https://github.com/ksa-app/codebase.git
 cd codebase
 
 # 2. Install dependencies
-npm install
+bun install
 
 # 3. Run development server
-npm run dev
+bun run dev
